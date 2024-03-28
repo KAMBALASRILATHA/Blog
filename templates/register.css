@@ -1,0 +1,19 @@
+h1{
+    color:red
+    text-align:center;
+    font-size:50px;
+    font-style:italic;
+}
+label{
+    color:blue;
+    font-size: 40px;
+    font-style: oblique;
+}
+button{
+    background-color: chartreuse;
+    color:orchid
+}
+body{
+    background-image: url("https://www.google.com/search?sca_esv=6ea7bef9d148f8bc&q=background+images+for+website&tbm=isch&source=lnms&prmd=ivsnbmtz&sa=X&ved=2ahUKEwjtgd6YzpOFAxVERmwGHaWQA_AQ0pQJegQIERAB&biw=1517&bih=712&dpr=0.9#imgrc=WkcpcPfZPSG4zM");
+    background-size: cover;
+}
